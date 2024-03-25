@@ -1,0 +1,7 @@
+2024-Mar-25-04:01:31 : Data saved to CSV file
+2024-Mar-25-04:01:31 : SQL Connection initiated.
+2024-Mar-25-04:01:31 : Data loaded to Database as table. Running the query
+2024-Mar-25-04:01:46 : Data saved to CSV file
+2024-Mar-25-04:01:46 : SQL Connection initiated.
+2024-Mar-25-04:01:46 : Data loaded to Database as table. Running the query
+2024-Mar-25-04:01:46 : Process Complete.
